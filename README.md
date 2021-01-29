@@ -1,2 +1,2 @@
 # atomicstyle
-Atomic Style
+Atomic Style - development continues.
