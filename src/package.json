@@ -1,6 +1,6 @@
 {
     "name": "@kenangundogan/atomicstyle",
-    "version": "1.0.1",
+    "version": "1.0.1-alpha1",
     "description": "npm package tuturial",
     "main": "index.js",
     "scripts": {
