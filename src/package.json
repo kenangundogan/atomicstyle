@@ -1,8 +1,28 @@
 {
-  "name": "atomicstyle",
-  "version": "1.0.0",
-  "main": "index.js",
-  "files": [
-      "index.js"
-  ]
+    "name": "atomicstyle",
+    "version": "1.0.0",
+    "description": "npm package tuturial",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kenangundogan/atomicstyle.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kenangundogan/atomicstyle/issues"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": "Kenan Gündoğan",
+    "license": "MIT",
+    "homepage": "https://github.com/kenangundogan/atomicstyle#readme"
 }
