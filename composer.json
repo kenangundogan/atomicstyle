@@ -1,0 +1,19 @@
+{
+    "name": "kenangundogan/atomicstyle",
+    "type": "library",
+    "description": "atomicstyle",
+    "keywords": ["css", "scss", "sass", "js", "script", "style"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kenan Gündoğan",
+            "email": "kenangundogann@gmail.com",
+            "role": "Visual UI / UX Designer and Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/kenangundogan/atomicstyle/issues",
+        "source": "https://github.com/kenangundogan/atomicstyle"
+    }
+}
